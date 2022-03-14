@@ -20,7 +20,7 @@ I've got various cryptocurrencies, and it's a pain for manage all of them. And f
 ## Technologies
 
 - Java 11 
-- Spring Framework
+- Spring Boot 2
 - Spring Hateos 
 - Spring Security
 - Spring JPA
